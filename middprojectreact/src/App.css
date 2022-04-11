@@ -1,0 +1,16 @@
+.userWithCompletedTasks{
+        
+  width: 400px;
+  border: 5px seagreen;
+  
+  margin: 20px;
+  }
+
+  .userWithUncompletedTasks{
+        
+    width: 400px;
+    border: 5px red;
+    padding: 5px 10px;
+    margin: 20px;
+    }
+  
